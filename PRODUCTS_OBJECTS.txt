@@ -1,0 +1,40 @@
+Fruits & Vegetables;C:/Users/Maria/Desktop/card/mango.png;Mango Sindhri Box;675;3000 gm
+Fruits & Vegetables;C:/Users/Maria/Desktop/card/banana.png;Banana;99;6 unit
+Fruits & Vegetables;C:/Users/Maria/Desktop/card/melon.png;Melon;229;2000 gm
+Fruits & Vegetables;C:/Users/Maria/Desktop/card/peach.png;Peach;229;1000 gm
+Fruits & Vegetables;C:/Users/Maria/Desktop/card/tomato.png;Tomato;89;1000 gm
+Fruits & Vegetables;C:/Users/Maria/Desktop/card/onion.png;Onion;95;1000 gm
+Fruits & Vegetables;C:/Users/Maria/Desktop/card/cucumber.png;Cucumber;32;500 gm
+Fruits & Vegetables;C:/Users/Maria/Desktop/card/garlic.png;Garlic;79;250 gm
+Fruits & Vegetables;C:/Users/Maria/Desktop/card/chilli.png;Green Chilli;35;250 gm
+Fruits & Vegetables;C:/Users/Maria/Desktop/card/ginger.png;Ginger;69;250 gm
+Personal Care;C:/Users/Maria/Desktop/card/soap.png;Soap;199;1 unit
+Personal Care;C:/Users/Maria/Desktop/card/shampoo.png;Shampoo;359;200 ml
+Personal Care;C:/Users/Maria/Desktop/card/toothpaste.png;Toothpaste;349;250 ml
+Personal Care;C:/Users/Maria/Desktop/card/handwash.png;Hand Wash;489;350 gm
+Personal Care;C:/Users/Maria/Desktop/card/showergel.png;Shower Gel;479;300 ml
+Personal Care;C:/Users/Maria/Desktop/card/facewash.jpg;Face Wash;489;150 ml
+Personal Care;C:/Users/Maria/Desktop/card/haircomb.png;Hair Comb;749;1 unit
+Personal Care;C:/Users/Maria/Desktop/card/conditioner.png;Hair Conditioner;589;120 ml
+Personal Care;C:/Users/Maria/Desktop/card/bodyspray.png;Body Spray;579;100 ml
+Personal Care;C:/Users/Maria/Desktop/card/haircolor.png;Hair Color;889;1 unit
+Fresh Meat;C:/Users/Maria/Desktop/card/chickenkarahicut.png;Chicken Karahi Cut;489;900 gm
+Fresh Meat;C:/Users/Maria/Desktop/card/chickenkarahicut.png;Chicken Mince;359;500 gm
+Fresh Meat;C:/Users/Maria/Desktop/card/chickenkarahicut.png;Chicken Breast;749;1 kg
+Fresh Meat;C:/Users/Maria/Desktop/card/chickenkarahicut.png;Chicken Biryani Cut;489;900 gm
+Fresh Meat;C:/Users/Maria/Desktop/card/chickenkarahicut.png;Whole Chicken;479;1 unit
+Fresh Meat;C:/Users/Maria/Desktop/card/chickenkarahicut.png;Chicken Korma Cut;489;900 gm
+Fresh Meat;C:/Users/Maria/Desktop/card/chickenkarahicut.png;Beef Karahi Cut;749;900 gm
+Fresh Meat;C:/Users/Maria/Desktop/card/chickenkarahicut.png;Beef Mince;589;500 gm
+Fresh Meat;C:/Users/Maria/Desktop/card/chickenkarahicut.png;Beef Korma Cut;979;1 kg
+Fresh Meat;C:/Users/Maria/Desktop/card/chickenkarahicut.png;Beef Biryani Cut;889;900 gm
+Fish & Seafood;C:/Users/Maria/Desktop/card/rahufish.png;Rahu Fish;649;1 kg
+Fish & Seafood;C:/Users/Maria/Desktop/card/rahufish.png;Sole fish;729;500 gm
+Fish & Seafood;C:/Users/Maria/Desktop/card/rahufish.png;Tuna;489;1 kg
+Fish & Seafood;C:/Users/Maria/Desktop/card/rahufish.png;Surmai;359;700 gm
+Fish & Seafood;C:/Users/Maria/Desktop/card/rahufish.png;Black Pomfret;749;700 gm
+Fish & Seafood;C:/Users/Maria/Desktop/card/rahufish.png;Mushka;489;500 gm
+Fish & Seafood;C:/Users/Maria/Desktop/card/rahufish.png;King Fish;479;1 kg
+Fish & Seafood;C:/Users/Maria/Desktop/card/rahufish.png;Dangri;589;700 gm
+Fish & Seafood;C:/Users/Maria/Desktop/card/rahufish.png;White Pomfret;979;700 gm
+Fish & Seafood;C:/Users/Maria/Desktop/card/rahufish.png;Trout;889;1 kg
